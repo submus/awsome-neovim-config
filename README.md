@@ -2,6 +2,9 @@
 
 To use this configuration first download neovim and install it on your computer, then install vim-plug, for plugins.
 
+## TODO:
+Move to Lua for configuration
+
 Clone this repository or download the file form GitHub.
 ```
 git clone https://github.com/submus/awsome-neovim-config.git
